@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Alle diamanten op mij!
+
 # Bag of holding
 ### Gems
 1 amathist (100 gp ps)
