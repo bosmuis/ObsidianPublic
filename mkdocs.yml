@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Marijn's notities
 
 theme:
     name: 'material'
