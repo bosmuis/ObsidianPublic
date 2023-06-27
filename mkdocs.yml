@@ -3,7 +3,7 @@ site_name: Marijn's notities
 theme:
     name: 'material'
     palette:
-    logo: assets/Roundmouse500x472.png
+    # logo: assets/Roundmouse500x472.png
     
     # Light mode
     - media: "(prefers-color-scheme: light)"
