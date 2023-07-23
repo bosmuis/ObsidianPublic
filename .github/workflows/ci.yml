@@ -1,5 +1,4 @@
 name: ci
-url: https://notes.bosmuis.com/
 on:
   push:
     branches:
