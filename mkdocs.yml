@@ -1,5 +1,5 @@
 site_name: Marijn's notities
-site_url: notes.bosmuis.com
+site_url: https://notes.bosmuis.com
 
 theme:
     name: 'material'
