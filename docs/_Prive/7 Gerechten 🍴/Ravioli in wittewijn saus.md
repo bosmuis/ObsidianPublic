@@ -13,7 +13,7 @@ share: true
 - 50 ml witte wijn (smaak naar keuze, ik prefereer Sauvignon blanc)
 - 1 theelepel zout + zwarte peper
 - 1/4 theelepel rode pepervlokken
-- ongeveer 10 verse salieblaadjes
+- ongeveer 10 verse saliewwwwwwblaadjes
 - 55 g walnoten, grof gehakt
 
 ## Bereiding

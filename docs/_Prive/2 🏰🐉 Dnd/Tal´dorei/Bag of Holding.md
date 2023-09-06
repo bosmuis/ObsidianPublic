@@ -5,9 +5,12 @@ share: true
 # Bag of holding
 ### Gems
 1 amathist (100 gp ps)
-2 potion of healing (greater) 
+2 diamands (5000 gp ps)
 4 diamands (500 gp ps)
 10 diamands (300 gp ps)
+1 ruby (2500 gp ps)
+1 ruby (2000 gp ps)
+1 black saphire (500 pg ps)
 8 ruby’s (275 gp ps)
 9 topaas (150 gp ps)
 3 Chrysoberyl gems 100 GP ps
@@ -29,6 +32,12 @@ white moonstone (2,750 GP)
 
 ### Maps
 Een kaart, kaart van de underdark van Tal’dori. Waar die zijn en waar je er in kan.
+
+### Wapens
+Revolver +2
+Blood Lightning Odachi
+Armor of Lighting Resistance, Hide
+
 ### Overigen
 2 papierstukken met muzieknoten er op geschreven, lijkt 1 stuk: titel “communication with the dead”
 	De scroll is een magisch type. Hij kan één maal gebruikt worden per lichaam om voor een minuut lang met een dode te kunnen praten. Hij moet gezongen worden om het te activeren. Je moet fysiek aanwezig zijn bij het lichaam. Wanneer je het zingt, activeert de scroll op het dichtsbijzinde lichaam. Je kan de scroll niet oneindig gebruiken, er is een limiet. Je kan hem niet op oneindig veel lichamen uitvoeren. Op een gegeven moment is de scroll uitgeput. Het moet gezongen worden door iemand met magische krachten (je moet spells kunnen casten).
@@ -37,7 +46,7 @@ Een kaart, kaart van de underdark van Tal’dori. Waar die zijn en waar je er in
 Een staf, met een slang richting de kop gerold
 Een paar handschoenen, ziet er goed gemaakt uit
 Een triant, Onder de 2de tand een vissenkop
-
+Eén Tadpole in een pot, de pot zit in een ijzeren doos
 
 Cantrip - Scroll of Arcane Lock
 Cantrip - 2 Scrolls of major Illusion
@@ -53,7 +62,7 @@ Een oneindig vaatje peper
 0 potions of gaseous form
 2 potions of diminution from
 
-0 greater healing potions
+1 greater healing potions
 2 superior healing potions
 
 ### Afgestreept
