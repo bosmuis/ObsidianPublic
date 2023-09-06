@@ -22,4 +22,5 @@ Dit gerecht is voor 2 personen
 8. Als je kookwekker voor de pasta gaat, voeg je de pasta toe aan je saus. Doe het vlees ook weer terug in de pan. Laat dit voor ongeveer 3 minuten nog door pruttelen op laag vuur.
 9. Zet het vuur uit. Pak de helft van de kaas, doe dat in de saus en roer het door.
 10. Serveer het op je borden, en strooi de kaas erover
+
 Enjoy!
