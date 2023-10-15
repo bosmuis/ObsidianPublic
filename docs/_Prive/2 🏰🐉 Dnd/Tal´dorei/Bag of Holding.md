@@ -41,8 +41,8 @@ Armor of Lighting Resistance, Hide
 ### Overigen
 2 papierstukken met muzieknoten er op geschreven, lijkt 1 stuk: titel “communication with the dead”
 	De scroll is een magisch type. Hij kan één maal gebruikt worden per lichaam om voor een minuut lang met een dode te kunnen praten. Hij moet gezongen worden om het te activeren. Je moet fysiek aanwezig zijn bij het lichaam. Wanneer je het zingt, activeert de scroll op het dichtsbijzinde lichaam. Je kan de scroll niet oneindig gebruiken, er is een limiet. Je kan hem niet op oneindig veel lichamen uitvoeren. Op een gegeven moment is de scroll uitgeput. Het moet gezongen worden door iemand met magische krachten (je moet spells kunnen casten).
-2 dice of bone (onduidelijk wat)
-	Het is magisch. 
+In bezit bij Bjorn ~~2 dice of bone (onduidelijk wat) 
+	 Het is magisch.~~ 
 Een staf, met een slang richting de kop gerold
 Een paar handschoenen, ziet er goed gemaakt uit
 Een triant, Onder de 2de tand een vissenkop
