@@ -51,6 +51,8 @@ share: true
 - Cantrip - Scroll of Arcane Lock
 - Cantrip - 2 Scrolls of major Illusion
 
+- 4 lichamen van ‘The dragons Breath’
+
 ### Voedsel
 - 4 stukken vlees
 - 10 broden
