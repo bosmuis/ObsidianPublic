@@ -43,15 +43,18 @@ share: true
 	De scroll is een magisch type. Hij kan één maal gebruikt worden per lichaam om voor een minuut lang met een dode te kunnen praten. Hij moet gezongen worden om het te activeren. Je moet fysiek aanwezig zijn bij het lichaam. Wanneer je het zingt, activeert de scroll op het dichtsbijzinde lichaam. Je kan de scroll niet oneindig gebruiken, er is een limiet. Je kan hem niet op oneindig veel lichamen uitvoeren. Op een gegeven moment is de scroll uitgeput. Het moet gezongen worden door iemand met magische krachten (je moet spells kunnen casten).
 - In bezit bij Bjorn ~~2 dice of bone (onduidelijk wat) 
 	 Het is magisch.~~ 
+	 De dice zijn nog altijd magisch. Het zijn zeer sterke scholen. Het is een grote combinatie van magie. Het is zeer mysterious. Het kan positief zijn, maar het kan ook negatief zijn. Mogelijk met de dood als gevolg.
 - Een staf, met een slang richting de kop gerold
 - Een paar handschoenen, ziet er goed gemaakt uit
 - Een triant, Onder de 2de tand een vissenkop
+
 - Eén Tadpole in een pot, de pot zit in een ijzeren doos
+- 4 lichamen van ‘The dragons Breath’
 
 - Cantrip - Scroll of Arcane Lock
 - Cantrip - 2 Scrolls of major Illusion
 
-- 4 lichamen van ‘The dragons Breath’
+
 
 ### Voedsel
 - 4 stukken vlees
