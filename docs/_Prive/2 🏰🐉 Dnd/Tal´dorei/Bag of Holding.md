@@ -67,12 +67,19 @@ Een oneindig vaatje peper
 
 ### Afgestreept
 ~~een bronzen medaille met een ratten schedel~~ — Merel
+
 ~~Een bow of splinters~~ — Robin
+
 ~~Een armor of ghosts~~ — Ole
+
 ~~Belt of dwarfenkind~~ — Tippe
+
 ~~Halfplate of lightningresistant~~ — Julia
+
 ~~Staff of Styx~~ — Sebastian
+
 ~~2 amethyst Gems 100 GP ps~~ gebruikt Tippe
+
 
 
 Totale waarde incl diamanten: GP 7.250
