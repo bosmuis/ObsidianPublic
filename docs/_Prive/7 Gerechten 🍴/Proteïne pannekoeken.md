@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 Dit recept is voor 3 dikke pannekoeken
 
 ## Ingrediënten
