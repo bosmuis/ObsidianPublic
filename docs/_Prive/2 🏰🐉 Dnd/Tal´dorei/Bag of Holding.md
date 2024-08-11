@@ -2,6 +2,16 @@
 share: true
 ---
 # Bag of holding
+
+## Stren’s magical items
+- Cloak of displacement
+- Famines Broach
+- Amulet of health
+- Adamantine Scale Mail
+- Breastplate +2
+- Potion of fire breathing
+- Sending stones, paar
+
 ### Gems
 - 1 amathist (100 gp ps)
 - 2 diamands (5000 gp ps)
@@ -56,6 +66,7 @@ share: true
 - Sleutel tot het safehouse in Dryna
 - Sleutel tot het huis in Whitestone
 
+- Het lichaam van Stren
 
 ### Voedsel
 - 4 stukken vlees
