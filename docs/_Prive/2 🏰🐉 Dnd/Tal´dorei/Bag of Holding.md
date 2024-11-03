@@ -14,13 +14,13 @@ share: true
 
 ### Gems
 - 1 amathist (100 gp ps)
-- 2 diamands (5000 gp ps)
+- 1 diamands (5000 gp ps)
 - 4 diamands (500 gp ps)
 - 10 diamands (300 gp ps)
 - 1 ruby (2500 gp ps)
-- 1 ruby (2000 gp ps)
+- ~~1 ruby (2000 gp ps)~~ Verkocht door Georgios voor 2 Mindguard Crowns
 - 1 black saphire (500 pg ps)
-- 8 ruby’s (275 gp ps)
+- 7 ruby’s (275 gp ps)
 - 9 topaas (150 gp ps)
 - 3 Chrysoberyl gems 100 GP ps
 - 2 Spinel Gems 100 GP ps
@@ -33,11 +33,12 @@ share: true
 - cracked pale blue sapphire (1,400 GP)
 - huge rich golden amber (2,500 GP)
 - tiny flawless deep purple amethyst (2,500 GP)
-- ~~huge flawed blue diamond (10,000 GP)~~
 - chipped pink diamond (5,000 GP)
 - tiny cloudy pale blue-green aquamarine (130 GP)
 - large dull blue star sapphire (6,000 GP)
 - white moonstone (2,750 GP)
+
+- 3 Mind Crystals (Rare)
 
 ### Maps
 - Een kaart, kaart van de underdark van Tal’dori. Waar die zijn en waar je er in kan.
@@ -50,9 +51,9 @@ share: true
 ### Overigen
 - 2 papierstukken met muzieknoten er op geschreven, lijkt 1 stuk: titel “communication with the dead” 
 	De scroll is een magisch type. Hij kan één maal gebruikt worden per lichaam om voor een minuut lang met een dode te kunnen praten. Hij moet gezongen worden om het te activeren. Je moet fysiek aanwezig zijn bij het lichaam. Wanneer je het zingt, activeert de scroll op het dichtsbijzinde lichaam. Je kan de scroll niet oneindig gebruiken, er is een limiet. Je kan hem niet op oneindig veel lichamen uitvoeren. Op een gegeven moment is de scroll uitgeput. Het moet gezongen worden door iemand met magische krachten (je moet spells kunnen casten).
-- In bezit bij Bjorn ~~2 dice of bone (onduidelijk wat) 
-	 Het is magisch.~~ 
-		 De dice zijn nog altijd magisch. Het zijn zeer sterke scholen. Het is een grote combinatie van magie. Het is zeer mysterious. Het kan positief zijn, maar het kan ook negatief zijn. Mogelijk met de dood als gevolg.
+- ~~In bezit bij Bjorn 2 dice of bone (onduidelijk wat)~~ 
+	 ~~Het is magisch.~~ 
+		 ~~De dice zijn nog altijd magisch. Het zijn zeer sterke scholen. Het is een grote combinatie van magie. Het is zeer mysterious. Het kan positief zijn, maar het kan ook negatief zijn. Mogelijk met de dood als gevolg.~~
 - Een staf, met een slang richting de kop gerold
 - Een paar handschoenen, ziet er goed gemaakt uit
 - Een triant, Onder de 2de tand een vissenkop
@@ -73,6 +74,7 @@ share: true
 - 10 broden
 - Een oneindig vaatje zout
 - Een oneindig vaatje peper
+- 4 flessen rode wijn minstens 10 jaar gerijpt
 
 ### Potions
 - 0 potions of aqeous form
